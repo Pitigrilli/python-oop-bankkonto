@@ -12,7 +12,7 @@ Implementiere eine Klasse `Bankkonto` mit Methoden:
 
 ## Ausführung im Browser (Binder)
 
-👉 [Starte die Aufgabe in Binder](https://mybinder.org/v2/gh/DEIN-GITHUB-NAME/python-oop-bankkonto/HEAD)
+👉 [Starte die Aufgabe in Binder](https://mybinder.org/v2/gh/Pitigrilli/python-oop-bankkonto/HEAD)
 
 ## Tests ausführen
 
